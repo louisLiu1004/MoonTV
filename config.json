@@ -3,87 +3,87 @@
   "api_site": {
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "name": "黑木耳",
+      "name": "线路 1",
       "detail": "https://heimuer.tv"
     },
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "name": "如意资源"
+      "name": "线路 2"
     },
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "name": "电影天堂资源",
+      "name": "线路 3",
       "detail": "http://caiji.dyttzyapi.com"
     },
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
-      "name": "暴风资源"
+      "name": "线路 4"
     },
     "tyyszy": {
       "api": "https://tyyszy.com/api.php/provide/vod",
-      "name": "天涯资源"
+      "name": "线路 5"
     },
     "ffzy": {
       "api": "http://ffzy5.tv/api.php/provide/vod",
-      "name": "非凡影视",
+      "name": "线路 6",
       "detail": "http://ffzy5.tv"
     },
     "zy360": {
       "api": "https://360zy.com/api.php/provide/vod",
-      "name": "360资源"
+      "name": "线路 7"
     },
     "iqiyi": {
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
-      "name": "iqiyi资源"
+      "name": "线路 8"
     },
     "wolong": {
       "api": "https://wolongzyw.com/api.php/provide/vod",
-      "name": "卧龙资源"
+      "name": "线路 9"
     },
     "jisu": {
       "api": "https://jszyapi.com/api.php/provide/vod",
-      "name": "极速资源",
+      "name": "线路 10",
       "detail": "https://jszyapi.com"
     },
     "dbzy": {
       "api": "https://dbzy.tv/api.php/provide/vod",
-      "name": "豆瓣资源"
+      "name": "线路 11"
     },
     "mozhua": {
       "api": "https://mozhuazy.com/api.php/provide/vod",
-      "name": "魔爪资源"
+      "name": "线路 12"
     },
     "mdzy": {
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "name": "魔都资源"
+      "name": "线路 13"
     },
     "zuid": {
       "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "name": "最大资源"
+      "name": "线路 14"
     },
     "yinghua": {
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
-      "name": "樱花资源"
+      "name": "线路 15"
     },
     "wujin": {
       "api": "https://api.wujinapi.me/api.php/provide/vod",
-      "name": "无尽资源"
+      "name": "线路 16"
     },
     "wwzy": {
       "api": "https://wwzy.tv/api.php/provide/vod",
-      "name": "旺旺短剧"
+      "name": "线路 17"
     },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "name": "iKun资源"
+      "name": "线路 18"
     },
     "sony": {
       "api": "https://suoniapi.com/api.php/provide/vod",
-      "name": "索尼资源"
+      "name": "线路 19"
     },
     "fc": {
       "api": "https://api.fczy888.me/api.php/provide/vod",
-      "name": "蜂巢资源"
+      "name": "线路 20"
     }
   }
 }
